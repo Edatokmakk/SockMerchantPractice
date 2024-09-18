@@ -1,0 +1,7 @@
+C:\Users\etokmak\source\repos\SockMerchantPractice\SockMerchantPractice\bin\Debug\SockMerchantPractice.exe.config
+C:\Users\etokmak\source\repos\SockMerchantPractice\SockMerchantPractice\bin\Debug\SockMerchantPractice.exe
+C:\Users\etokmak\source\repos\SockMerchantPractice\SockMerchantPractice\bin\Debug\SockMerchantPractice.pdb
+C:\Users\etokmak\source\repos\SockMerchantPractice\SockMerchantPractice\obj\Debug\SockMerchantPractice.csproj.AssemblyReference.cache
+C:\Users\etokmak\source\repos\SockMerchantPractice\SockMerchantPractice\obj\Debug\SockMerchantPractice.csproj.CoreCompileInputs.cache
+C:\Users\etokmak\source\repos\SockMerchantPractice\SockMerchantPractice\obj\Debug\SockMerchantPractice.exe
+C:\Users\etokmak\source\repos\SockMerchantPractice\SockMerchantPractice\obj\Debug\SockMerchantPractice.pdb
